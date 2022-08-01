@@ -1,1 +1,27 @@
-/* write your override styles here */
+.tag-1 {
+  background: url(../images/tag-1.png) no-repeat;
+  z-index: 7;
+  display: block;
+}
+
+#wall .tag-1 {
+  display: none;
+}
+
+
+.tag-5 {
+  color: blue;
+  position: absolute
+}
+
+.tag-6 {
+  color: azure:
+}
+
+.parent {
+  position: relative;
+  font: bold;
+  range: infinite;
+  font-size: x-large;
+  left: 200px;
+}
